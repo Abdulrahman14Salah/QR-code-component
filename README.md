@@ -1,6 +1,10 @@
 # Frontend Mentor - QR code component
 
-![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
+![Design preview for the QR code component coding challenge](abdulrahman14salah-github-io-QR-code-component.png)
+
+# Demo
+
+https://abdulrahman14salah.github.io/QR-code-component/
 
 ## Welcome! 👋
 
